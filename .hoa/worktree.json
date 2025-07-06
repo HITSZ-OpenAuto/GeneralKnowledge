@@ -1,0 +1,57 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 2592,
+    "time": 1751765745,
+    "hash": "fd1d8dd8738a78bf64845c7984217cf17dfe848d"
+  },
+  ".hoa/worktree.json": {
+    "size": 1431,
+    "time": 1751764374,
+    "hash": "5dada24d5b5d94855caa90df730a59ecd6963e3c"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1728481799,
+    "hash": "e680f760e1cce232dc23e2ccf192c054c0810ea3"
+  },
+  "README.md": {
+    "size": 5727,
+    "time": 1740055975,
+    "hash": "f72fcf5d3f75d778e9a67317ddc7ba74b5ffc1e1"
+  },
+  "assignments/README.md": {
+    "size": 39,
+    "time": 1728481799,
+    "hash": "e680f760e1cce232dc23e2ccf192c054c0810ea3"
+  },
+  "exams/README.md": {
+    "size": 54,
+    "time": 1728481799,
+    "hash": "e680f760e1cce232dc23e2ccf192c054c0810ea3"
+  },
+  "labs/README.md": {
+    "size": 395,
+    "time": 1728481799,
+    "hash": "e680f760e1cce232dc23e2ccf192c054c0810ea3"
+  },
+  "notes/README.md": {
+    "size": 42,
+    "time": 1728481799,
+    "hash": "e680f760e1cce232dc23e2ccf192c054c0810ea3"
+  },
+  "notes/深圳校区首批文理通识核心课建设立项名单.xlsx": {
+    "size": 13941,
+    "time": 1736241699,
+    "hash": "3c7b5e7688aea26373d4ffc8ae96abbdd19d35e2"
+  },
+  "slides/README.md": {
+    "size": 58,
+    "time": 1728481799,
+    "hash": "e680f760e1cce232dc23e2ccf192c054c0810ea3"
+  },
+  "tag.txt": {
+    "size": 83,
+    "time": 1736070737,
+    "hash": "449140f286c4198d820b2321ba18373cffb43700"
+  }
+}
