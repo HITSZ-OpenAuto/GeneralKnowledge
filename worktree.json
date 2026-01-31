@@ -10,9 +10,9 @@
     "hash": "e680f760e1cce232dc23e2ccf192c054c0810ea3"
   },
   "README.md": {
-    "size": 15457,
-    "time": 1769804126,
-    "hash": "30c97e877f3137947a527eeb53cdafc930e56c11"
+    "size": 17695,
+    "time": 1769352712,
+    "hash": "c255709c56e8dc083a7a47f454b54d67d3aeb7ff"
   },
   "assignments/README.md": {
     "size": 39,
@@ -38,11 +38,6 @@
     "size": 13941,
     "time": 1736241699,
     "hash": "3c7b5e7688aea26373d4ffc8ae96abbdd19d35e2"
-  },
-  "readme.toml": {
-    "size": 18334,
-    "time": 1769804123,
-    "hash": "ebabcf6aa22f00ffa49b0126b9d960636fe47908"
   },
   "slides/README.md": {
     "size": 58,
