@@ -224,6 +224,7 @@
     > 文 / [SpeechlessPanda](https://github.com/SpeechlessPanda)，2026-01
 
 ## 数据科学工具及领域利用
+<!-- TOML-COURSE: code="" name="数据科学工具及领域利用" -->
 
 ### 授课教师
 
