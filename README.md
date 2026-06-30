@@ -287,7 +287,7 @@
   - 然后附上笔者大作业仓库：[数字素养作业](https://github.com/IceFerryLing/dig_literacy)
     > 文 / [摆渡](https://github.com/IceFerryLing)，2026-06
 
-### 桥梁结构赏析
+## 桥梁结构赏析
 <!-- TOML-COURSE: code="" name="桥梁结构赏析" -->
 
 ### 授课教师
