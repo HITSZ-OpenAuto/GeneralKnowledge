@@ -346,3 +346,18 @@ content = """
 然后附上笔者大作业仓库：[数字素养作业](https://github.com/IceFerryLing/dig_literacy)
 """
 author = { name = "摆渡", link = "https://github.com/IceFerryLing", date = "2026-06" }
+
+[[courses]]
+name = "桥梁结构赏析"
+
+[[courses.teachers]]
+name = "王文韬"
+
+[[courses.teachers.reviews]]
+content = """
+授课风格：比较轻松，老师讲述很认真，但是内容可能比较枯燥
+考勤方式：上课前使用纸质表签到，可以签完字马上跑。上课时会传话筒回答问题，加平时分。
+期末作业：用纸和胶水搭一座桥，要求能承载一瓶矿泉水，然后写出完整的报告。（手工过程比较有趣）
+虽然是2学分32课时的课程，但是2026春在10-16周开课，所以一周会上2-3节课，时间比较紧。（不过比较好水，笔者没去几次，基本都是签完到就跑）
+"""
+author = { name = "justice", link = "https://github.com/just1cez", date = "2026-06" }
