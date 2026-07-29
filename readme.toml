@@ -6,29 +6,47 @@ description = """
 
 文理通识课程是面向全体本科生开设的全校区任选的自主发展课程，目前按内容分为六大模块：
 
-{{% details title="中国文史经典" closed="true" %}}
+<details>
+<summary>中国文史经典</summary>
+
 包括诸子经典、经学传统、史学名著、古典诗文、传统白话文学、现当代文学、写作等单元。
-{{% /details %}}
 
-{{% details title="世界文明与对话" closed="true" %}}
+</details>
+
+<details>
+<summary>世界文明与对话</summary>
+
 包括外国文学、欧美文明、亚洲文明、海洋文明等单元。
-{{% /details %}}
 
-{{% details title="哲学与道德思考" closed="true" %}}
+</details>
+
+<details>
+<summary>哲学与道德思考</summary>
+
 包括哲学入门、道德思考、心理健康等单元。
-{{% /details %}}
 
-{{% details title="社会与当代中国" closed="true" %}}
+</details>
+
+<details>
+<summary>社会与当代中国</summary>
+
 包括社会、政治、经济、法律、文化、生态等单元。
-{{% /details %}}
 
-{{% details title="科学探索与创新" closed="true" %}}
+</details>
+
+<details>
+<summary>科学探索与创新</summary>
+
 包括数学、计算机、物理、生物、化学等单元。
-{{% /details %}}
 
-{{% details title="艺术鉴赏与创作" closed="true" %}}
+</details>
+
+<details>
+<summary>艺术鉴赏与创作</summary>
+
 包括音乐、美术与书法、舞蹈、戏剧、影视、摄影、建筑、演讲等单元。
-{{% /details %}}
+
+</details>
 
 按形式分为线下、线上 MOOC 两种。
 
@@ -42,21 +60,33 @@ description = """
 
 各级对文理通识的学分要求各不相同，可前往教务系统的 **「学生个人成绩查询-学习进度」** 中查看目前获得学分的进度情况。学分要求具体如下：
 
-{{% details title="21 级" closed="true" %}}
+<details>
+<summary>21 级</summary>
+
 不少于 20 学分，其中**人文与艺术类**课程至少 6 学分、**社会科学类**课程至少 2 学分、**科学与技术类**课程至少 2 学分、**创新与实践类**课程至少 2 学分、**心理类**课程至少 2 学分、**美育类**课程至少 2 学分，以上课程中**英文**课程至少 10 学分。
-{{% /details %}}
 
-{{% details title="22 级" closed="true" %}}
+</details>
+
+<details>
+<summary>22 级</summary>
+
 不少于 10 学分，其中**英文**课程至少 2 学分、**心理类**课程至少 2 学分、**美育类**课程至少 2 学分、**思政类选择性必修课程**不少于 1 门。
-{{% /details %}}
 
-{{% details title="23 级" closed="true" %}}
+</details>
+
+<details>
+<summary>23 级</summary>
+
 不少于 8 学分，其中**英文**课程至少 2 学分、**美育类**课程至少 2 学分、**思政类选择性必修课程**不少于 1 门。
-{{% /details %}}
 
-{{% details title="24 级起" closed="true" %}}
+</details>
+
+<details>
+<summary>24 级起</summary>
+
 不少于 8 学分，其中**英文**课程至少 2 学分、**美育类**课程至少 2 学分、**思政类选择性必修课程**不少于 1 门，《**卓越人才生涯规划**》为文理通识必修课，需大一学年完成。
-{{% /details %}}
+
+</details>
 
 其中 22 级起的**思政类选择性必修课程**为**四史类**课程。
 
