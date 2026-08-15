@@ -618,3 +618,23 @@ content = """
 可能看到上面的内容各位同学已经退缩了，但王巍老师是一个非常好的老师，她的内容充满了干货，个人觉得这对当代大学生算一个比较重要的一个能力，你如果认真上完了个人觉得会有非常大的收获，给分也算高。
 """
 author = { name = "[Satellite]，2026-07", link = "", date = "" }
+
+[[courses]]
+name = "大学生心理健康"
+
+[[courses.sections]]
+title = "开课学校"
+
+[[courses.sections.items]]
+content = "- 深圳大学"
+
+[[courses.sections]]
+title = "课程概况"
+
+[[courses.sections.items]]
+content = """
+这门课虽然在线下文理通识的选课渠道里选课，但是它其实是一门线上的 MOOC 课，整个课程只有一节课在深圳大学线下开展，其余全部流程都跟 MOOC 课程一致
+唯一的线下课的签到方式是定位扫码，占 10 分
+期末考试的相关习题答案网上都有，很轻松就能拿 100 分，不管是刷分还是凑文理通识分数，这门课的性价比都不低
+"""
+author = { name = "Cecilia", link = "https://github.com/mircecilia", date = "2026-08" }
