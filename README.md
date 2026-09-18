@@ -194,10 +194,9 @@
 - 有关内容：
 王砥老师的课程值得一听，在音乐之外会有很多关于历史与流行的思考，笔者也曾与老师探讨了中国音乐商业发展的方向，收获颇丰。
 
-> 文 / [Q.E.S.](https://github.com/QESingularity) 2026.9
+> 文 / [Q.E.S.](https://github.com/QESingularity)，2026.9
 
 ## 城市品牌战略
-
 <!-- TOML-COURSE: code="" name="城市品牌战略" -->
 
 ### 授课教师
